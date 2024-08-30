@@ -3,7 +3,7 @@ Hello, I'm Nasko 👋
 
 I'm passionate about C# Web Development and have been actively working towards mastering it. I began my studies in September 2022 and successfully completed the SoftUni Professional Modules in August 2024, covering 6 modules and passing 10 exams.
 
-📚 SoftUni Professional Modules (Completed 2022-2024):
+📚 SoftUni Professional Modules (2022-2024)
 
 C# Programming Basics – [Certificate & Exam Result](https://softuni.bg/certificates/details/143669/35c7c325)
 
@@ -27,5 +27,8 @@ JavaScript Front-End – [Certificate & Exam Result](https://softuni.bg/certific
 
 I’m excited to continue honing my skills in C# and Web Development, and I’m always eager to learn new technologies and work on interesting projects.
 
-Feel free to reach out if you’d like to collaborate or connect!
+📫 Let's Connect!
+Feel free to reach out if you'd like to collaborate or connect.
+📧 Email: [nbobchev@yahoo.com]
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/messaging/thread/2-OTM5YmU2ZWUtZTQ2YS00ODQxLTkwZjMtYWEyMjRkNzRmN2Y1XzAxMw==/?filter=connections)
 
