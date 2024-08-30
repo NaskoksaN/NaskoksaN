@@ -1,7 +1,6 @@
-
-Here’s a more polished and structured version of your README for GitHub:
-
 Hello, I'm Nasko 👋
+
+
 I'm passionate about C# Web Development and have been actively working towards mastering it. I began my studies in September 2022 and successfully completed the SoftUni Professional Modules in August 2024, covering 6 modules and passing 10 exams.
 
 📚 SoftUni Professional Modules (Completed 2022-2024):
