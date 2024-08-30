@@ -23,7 +23,7 @@ ASP.NET Advanced – [Certificate & Exam Result](https://softuni.bg/certificates
 
 HTML & CSS – [Certificate & Exam Result](https://softuni.bg/certificates/details/218399/43b08988)
 
-JavaScript Front-End – [Certificate & Exam Result](https://softuni.bg/certificates/details/223866/e079d5fd))
+JavaScript Front-End – [Certificate & Exam Result](https://softuni.bg/certificates/details/223866/e079d5fd)
 
 I’m excited to continue honing my skills in C# and Web Development, and I’m always eager to learn new technologies and work on interesting projects.
 
