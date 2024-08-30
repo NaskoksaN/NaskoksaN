@@ -31,7 +31,7 @@ I’m excited to continue honing my skills in C# and Web Development, and I’m 
 
 Feel free to reach out if you'd like to collaborate or connect.
 
-📧 Email: [nbobchev@yahoo.com]
+📧 Email: nbobchev@yahoo.com
 
 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/messaging/thread/2-OTM5YmU2ZWUtZTQ2YS00ODQxLTkwZjMtYWEyMjRkNzRmN2Y1XzAxMw==/?filter=connections)
 
