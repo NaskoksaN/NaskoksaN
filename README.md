@@ -27,7 +27,7 @@ JavaScript Front-End – [Certificate & Exam Result](https://softuni.bg/certific
 
 I’m excited to continue honing my skills in C# and Web Development, and I’m always eager to learn new technologies and work on interesting projects.
 
-📫 Let's Connect!
+**📫 Let's Connect!**
 
 Feel free to reach out if you'd like to collaborate or connect.
 
