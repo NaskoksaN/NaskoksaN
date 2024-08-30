@@ -33,5 +33,5 @@ Feel free to reach out if you'd like to collaborate or connect.
 
 📧 Email: nbobchev@yahoo.com
 
-💼 LinkedIn: [LinkedIn](https://www.linkedin.com/messaging/thread/2-OTM5YmU2ZWUtZTQ2YS00ODQxLTkwZjMtYWEyMjRkNzRmN2Y1XzAxMw==/?filter=connections)
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/atanas-bobchev-7056792b5/)
 
