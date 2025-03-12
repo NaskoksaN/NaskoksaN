@@ -25,6 +25,10 @@ HTML & CSS – [Certificate & Exam Result](https://softuni.bg/certificates/detai
 
 JavaScript Front-End – [Certificate & Exam Result](https://softuni.bg/certificates/details/223866/e079d5fd)
 
+**📚 SoftServe Academy (Jan.2025-March.2025)**
+
+Basic Sitecore Developer Course  - 
+
 I’m excited to continue honing my skills in C# and Web Development, and I’m always eager to learn new technologies and work on interesting projects.
 
 **📫 Let's Connect!**
