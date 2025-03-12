@@ -27,7 +27,7 @@ JavaScript Front-End – [Certificate & Exam Result](https://softuni.bg/certific
 
 **📚 SoftServe Academy (Jan.2025-March.2025)**
 
-Basic Sitecore Developer Course  - 
+Basic Sitecore Developer Course: Series FC № 23310/2025  [Verify Certificate](https://career.softserveinc.com/en-us/certification/verification)
 
 I’m excited to continue honing my skills in C# and Web Development, and I’m always eager to learn new technologies and work on interesting projects.
 
